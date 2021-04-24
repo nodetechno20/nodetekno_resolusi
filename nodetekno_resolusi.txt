@@ -2,4 +2,4 @@ nodetekno_resolusi:
 - Konsisten belajar utk mikrokontroller
 - konsisten belajar arduino
 - pemrograman web 
-- pemrograman java
+- belajar phyton
